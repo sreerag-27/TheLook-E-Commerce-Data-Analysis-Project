@@ -1,1 +1,1 @@
-# TheLook-E-Commerce-Data-Analysis-Project
+# TheLook-ECommerce-Data-Analysis-Project
